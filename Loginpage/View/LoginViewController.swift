@@ -26,7 +26,7 @@ class LoginViewController: UIViewController {
                    // self.present(homeVC, animated: true)
                 }
             } else {
-                print("Login failed:")
+                print("Login failed: here")
             }
             }
     }
